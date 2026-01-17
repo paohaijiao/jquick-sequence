@@ -1,1 +1,1 @@
-# jquick-sequence
+# jquick-sequenceq
